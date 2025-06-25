@@ -18,7 +18,8 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leveneficor&layout=compact&theme=tokyonight"/>
 
-<img align='right' src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp" width="230">
+<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjAxNDBkanJwZWI4ZXd3bTRsOTY1czF0aDNjeDM4OGJxaW43ZXV0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Zte2cuTn9rglhsY/giphy.gif" width="230">
 
+Bye and be kind to trans and autistic people! Or I will hunt you.
 
 <!--END_SECTION:waka-->
