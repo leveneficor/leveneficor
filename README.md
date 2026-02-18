@@ -16,7 +16,7 @@
 “Imagination is the only weapon in the war with reality.” Alice in Wonderland.
 ```
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leveneficor&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://tenor.com/pt-BR/view/ghost-white-dance-cute-delight-gif-10062357791239066841"/>
 
 <img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjAxNDBkanJwZWI4ZXd3bTRsOTY1czF0aDNjeDM4OGJxaW43ZXV0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Zte2cuTn9rglhsY/giphy.gif" width="230">
 
